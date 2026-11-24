@@ -55,3 +55,6 @@ Project File
 Conclusion
 
 This project demonstrates how Excel can be used to analyze retail sales data, identify business trends, evaluate profitability, and present insights through an interactive dashboard.
+## Dashboard Preview
+
+![SapphireIQ Dashboard](SapphireIQ_Dashboard_Preview.png)
